@@ -1,4 +1,4 @@
-# Tackled the problem first using fucntional python
+# Tackled the problem first using functional python
 # Created a function called scores
 def scores():
     # Take a user input for the word and convert to lower case
