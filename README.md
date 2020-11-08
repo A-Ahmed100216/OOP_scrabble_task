@@ -1,4 +1,4 @@
-# Task - Scrabble Word Calculator
+# Exercise - Scrabble Word Calculator
 
 ### Summary
 In Scrabble, different letters have different values dependant on how hard it is to incorporate the letter into a word. Create a simple calculator which can calculate the score of a word. 
